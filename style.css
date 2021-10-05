@@ -1,0 +1,30 @@
+#tit {
+    color: rgb(0, 255, 179);
+    font-family: 'Fira Sans', sans-serif;
+    ;
+}
+
+body {
+    background-color: black;
+}
+
+#login {
+    border-style: solid;
+    height: 183px;
+    width: 400px;
+    border-color: rgb(0, 247, 255);
+}
+
+#player {
+    color: rgb(0, 140, 255);
+}
+
+#user {
+    color: blue;
+}
+
+#in {
+    width: 300;
+    height: 60;
+    font-size: 25;
+}
